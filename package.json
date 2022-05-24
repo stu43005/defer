@@ -16,6 +16,13 @@
   },
   "author": "Shiaupiau",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stu43005/defer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stu43005/defer/issues"
+  },
   "dependencies": {
     "p-lazy": "^3.1.0"
   },
