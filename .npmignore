@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# source code
+# TS Files
+/src
+/doc
+tsconfig.json
+.*
+*.tgz
