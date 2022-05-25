@@ -1,6 +1,6 @@
 {
   "name": "@stu43005/defer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Go-like defer",
   "main": "dist/index.js",
   "scripts": {
